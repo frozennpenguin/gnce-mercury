@@ -23,7 +23,7 @@ export default function Home() {
             <Profile name="Ethan" image="pfps/ethan.jpg" />
             <Profile name="Lucas" image="pfps/lucas.jpg" />
             <Profile name="Kyle" image="pfps/kyle.jpg" />
-            <Profile name="Amy" image="pfps/amy.png" />
+            <Profile name="Amy" image="pfps/amy.jpg" />
             <Profile name="Arnie" image="img-placeholder.png" />
           </div>
         </div>
