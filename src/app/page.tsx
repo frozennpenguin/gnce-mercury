@@ -15,15 +15,16 @@ export default function Home() {
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="text-2xl font-semibold leading-10">Members</h1>
           <div className="grid grid-cols-6 gap-6">
-            <Profile name="Zade" image="img-placeholder.png" />
+            <Profile name="Zade" image="pfps/zade.jpg" />
             <Profile name="Elisa" image="img-placeholder.png" />
-            <Profile name="Andy" image="img-placeholder.png" />
-            <Profile name="Noyee" image="img-placeholder.png" />
-            <Profile name="Nicholas" image="img-placeholder.png" />
-            <Profile name="Ethan" image="img-placeholder.png" />
-            <Profile name="Lucas" image="img-placeholder.png" />
-            <Profile name="Kyle" image="img-placeholder.png" />
-            <Profile name="Amy" image="img-placeholder.png" />
+            <Profile name="Andy" image="pfps/andy.jpg" />
+            <Profile name="Noyee" image="pfps/noyee.jpg" />
+            <Profile name="Nicholas" image="pfps/nicholas.jpg" />
+            <Profile name="Ethan" image="pfps/ethan.jpg" />
+            <Profile name="Lucas" image="pfps/lucas.jpg" />
+            <Profile name="Kyle" image="pfps/kyle.jpg" />
+            <Profile name="Amy" image="pfps/amy.png" />
+            <Profile name="Arnie" image="img-placeholder.png" />
           </div>
         </div>
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
