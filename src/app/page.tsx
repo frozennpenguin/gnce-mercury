@@ -29,8 +29,9 @@ export default function Home() {
         </div>
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="text-2xl font-semibold leading-10">Sponsors</h1>
-          <div className="grid">
+          <div className="grid grid-cols-4 gap-6">
           <img className="h-20 w-60 object-contain" src="solidworks.png"></img>
+          <img className="h-20 w-60 object-contain" src="fastsigns.png"></img>
           </div>
         </div>
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
